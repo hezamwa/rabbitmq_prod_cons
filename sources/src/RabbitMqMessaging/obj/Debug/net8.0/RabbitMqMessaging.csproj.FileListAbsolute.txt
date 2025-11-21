@@ -1,0 +1,12 @@
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\RabbitMqMessaging.csproj.AssemblyReference.cache
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\RabbitMqMessaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\RabbitMqMessaging.AssemblyInfoInputs.cache
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\RabbitMqMessaging.AssemblyInfo.cs
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\RabbitMqMessaging.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\bin\Debug\net8.0\RabbitMqMessaging.deps.json
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\bin\Debug\net8.0\RabbitMqMessaging.dll
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\bin\Debug\net8.0\RabbitMqMessaging.pdb
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\RabbitMqMessaging.dll
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\refint\RabbitMqMessaging.dll
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\RabbitMqMessaging.pdb
+C:\Users\Waleed\source\repos\shared tools\rabbitmq_prod_cons\sources\src\RabbitMqMessaging\obj\Debug\net8.0\ref\RabbitMqMessaging.dll

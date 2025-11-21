@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJ5Jj8O4P4Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Waleed\\source\\repos\\shared kernel\\rabbitmq_prod_cons\\sources\\src\\RabbitMqMessaging\\RabbitMqMessaging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waleed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Waleed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Waleed\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\Waleed\\.nuget\\packages\\microsoft.extensions.options.dataannotations\\10.0.0\\microsoft.extensions.options.dataannotations.10.0.0.nupkg.sha512",
+    "C:\\Users\\Waleed\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\Waleed\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Waleed\source\local-NuGet\RabbitMqMessaging.dll
+C:\Users\Waleed\source\local-NuGet\RabbitMqMessaging.deps.json
+C:\Users\Waleed\source\local-NuGet\RabbitMqMessaging.pdb
+C:\Users\Waleed\source\local-NuGet\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Waleed\source\local-NuGet\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Waleed\source\local-NuGet\Microsoft.Extensions.Options.dll
+C:\Users\Waleed\source\local-NuGet\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Waleed\source\local-NuGet\Microsoft.Extensions.Primitives.dll
+C:\Users\Waleed\source\local-NuGet\RabbitMQ.Client.dll
