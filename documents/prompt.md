@@ -6,7 +6,7 @@ Create a COMPLETE .NET solution that provides a reusable RabbitMQ PRODUCER and C
 
 High-Level Requirements
 ========================
-1. Use modern .NET (prefer .NET 8; if not available, use the latest LTS).
+1. Use modern .NET (prefer .NET 10; if not available, use the latest LTS).
 2. Language: C#.
 3. Use the official RabbitMQ .NET client:
    - Package: RabbitMQ.Client
